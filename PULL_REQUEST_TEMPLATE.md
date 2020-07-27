@@ -13,9 +13,6 @@
 <!-- How should this be tested in the hue-contract-tests suite? Or manually by Signify testers? -->
 ### Specifically for testers?
 
-<!-- Add a nice gif below, if you like -->
-![I was lazy and used the example giphy](http://i.giphy.com/3oEdv9Xaqm76AzUsvu.gif)
-
 <!-- Make sure you complete the boxes below, if applicable -->
 ### Definition of done
 - [ ] :pencil: The changes are documented in the code and `README.md`
