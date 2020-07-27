@@ -1,4 +1,4 @@
-<!-- Which problem does this PR solve? Please link to any relevant information and Trello tickets -->
+<!-- Which problem does this PR solve? Add links to jira tickets please :) -->
 ### Problem
 
 <!-- How does this PR solve the problem? -->
@@ -10,7 +10,7 @@
 <!-- e.g. what decisions did you make in the code? Do you have any doubts worth mentioning? -->
 ### Specifically for code reviewers?
 
-<!-- How should this be tested in the hue-contract-tests suite? Or manually by Signify testers? -->
+<!-- How should this be tested in the integration test suite? Or manually by test team? -->
 ### Specifically for testers?
 
 <!-- Make sure you complete the boxes below, if applicable -->
