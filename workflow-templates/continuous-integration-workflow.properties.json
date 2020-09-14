@@ -1,0 +1,14 @@
+{
+    "name": "Q42Philips Organization Workflow",
+    "description": "Q42Philips Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go",
+        "nodejs"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
