@@ -7,10 +7,5 @@
         "nodejs",
         "JavaScript",
         "TypeScript"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
     ]
 }
