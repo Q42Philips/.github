@@ -4,7 +4,8 @@
     "iconName": "example-icon",
     "categories": [
         "Go",
-        "nodejs"
+        "nodejs",
+        "javascript"
     ],
     "filePatterns": [
         "package.json$",
