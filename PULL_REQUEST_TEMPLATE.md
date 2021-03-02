@@ -25,3 +25,5 @@ Jira ticket: https://www.tracker.dtf.lighting.com/browse/HCEN-??? | HCLD-???
 - [ ] :vertical_traffic_light: Travis and Gitlab approve
 - [ ] :thumbsup: The pull request is code reviewed
 - [ ] :collision: The application is tested and verified locally by reviewer
+- [ ] :teacher: Knowledge is shared among the team
+
