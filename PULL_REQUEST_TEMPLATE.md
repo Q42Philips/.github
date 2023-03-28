@@ -22,7 +22,7 @@ Jira ticket: https://www.tracker.dtf.lighting.com/browse/HVEN-??? | HCLD-???
 - [ ] :chart_with_upwards_trend: The changes are covered by the appropriate datadog measurements
 - [ ] :mega: It scales
 - [ ] :lock: It is secure and it preserves privacy
-- [ ] :vertical_traffic_light: Travis and Gitlab approve
+- [ ] :vertical_traffic_light: GitHub Actions are green
 - [ ] :thumbsup: The pull request is code reviewed
 - [ ] :collision: The application is tested and verified locally by reviewer
 - [ ] :teacher: Knowledge is shared among the team
