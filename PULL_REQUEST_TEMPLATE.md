@@ -1,29 +1,22 @@
-Jira ticket: https://www.tracker.dtf.signify.com/browse/HFUN-
+# Describe your changes
 
-<!-- Which problem does this PR solve? Add links to jira tickets please :) -->
-### Problem
+<!-- Please include a summary of the changes.
+     Please also include relevant motivation and context.
+     List any dependencies that are required for this change. -->
 
-<!-- How does this PR solve the problem? -->
-### Solution
+## Jira ticket
+HFUN-
 
-<!-- e.g. should we take a closer look at a certain part of the code? Did you make any decisions you'd like a second opinion on?-->
-### Notes
+## How has This been tested?
 
-<!-- e.g. what decisions did you make in the code? Do you have any doubts worth mentioning? -->
-### Specifically for code reviewers?
+- [ ] Unit tests
+- [ ] Component tests
+- [ ] Integration Tests
+- [ ] Manual testing (Describe the test steps taken)
 
-<!-- How should this be tested in the integration test suite? Or manually by test team? -->
-### Specifically for testers?
-
-<!-- Make sure you complete the boxes below, if applicable -->
 ### Definition of done
-- [ ] :pencil: The changes are documented in the code and `README.md`
-- [ ] :sparkles: The changes are covered by tests
-- [ ] :chart_with_upwards_trend: The changes are covered by the appropriate datadog measurements
+
+- [ ] :pencil: The changes are documented in the code and in the docs folder in an appropriate section or in README.md
+- [ ] :chart_with_upwards_trend: The changes are covered by the appropriate Datadog measurements
 - [ ] :mega: It scales
 - [ ] :lock: It is secure and it preserves privacy
-- [ ] :vertical_traffic_light: GitHub Actions are green
-- [ ] :thumbsup: The pull request is code reviewed
-- [ ] :collision: The application is tested and verified locally by reviewer
-- [ ] :teacher: Knowledge is shared among the team
-
