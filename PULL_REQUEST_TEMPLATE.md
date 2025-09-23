@@ -20,5 +20,3 @@ HFUN-
 - [ ] :chart_with_upwards_trend: The changes are covered by the appropriate Datadog measurements
 - [ ] :mega: It scales
 - [ ] :lock: It is secure and it preserves privacy
-- [ ] :collision: The application is tested and verified locally by reviewer
-- [ ] :teacher: Knowledge is shared among the team
